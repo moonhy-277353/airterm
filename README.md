@@ -1,0 +1,2 @@
+# airterm
+discord theme
